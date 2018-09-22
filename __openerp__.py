@@ -4,7 +4,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    'name': 'Products - Custom View',
+    'name': 'Supercoop - Products - Custom View',
     'summary': 'Add some extra things to the product view',
     'version': '1.0',
     'category': 'Tools',
@@ -13,7 +13,8 @@
 Met à disposition des objets pour modifier la vue variante d'articles
 =============================================
 
-- Bouton à ajouter dans la tree view pour modifier l'article
+- Bouton à ajouter dans la tree view pour modifier l'article:
+<button name="open_to_form_view" type="object" icon="STOCK_INDEX"/>
 
 """,
     'author': 'SUPERCOOP',
